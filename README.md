@@ -3,7 +3,7 @@ This is my first *code*, I will code in **R**
 This is my first list.
 1. first item
 2. second item
-..* This is another point
+  - This is another point
 
 This is [google](http//:www.google.com)
 
